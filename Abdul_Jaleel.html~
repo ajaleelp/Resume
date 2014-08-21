@@ -19,15 +19,16 @@
 -->		
 		<div id="name">
 			<h1 class="quickFade delayTwo">Abdul Jaleel</h1>
-			<h4 class="quickFade delayThree">Scientific programmer | 3+ years development experience </h4>
-			<h4 class="quickFade delayThree">Post-graduate Electrical Engineer (IIT)</h4>
+			<h4 class="quickFade delayThree">Scientific programmer | 3+ years</h4>
+			<h4 class="quickFade delayThree">Post-graduate Electrical Engineer (IIT-Madras)</h4>
 		</div>
 		
 		<div id="contactDetails" class="quickFade delayFour">
 			<ul>
-				<li><a href="mailto:ajaleelp@gmail.com" target="_blank">ajaleelp@gmail.com</a></li>
-				<li><a href="http://www.bloggs.com"> <img src="GitHub-32px.png" height=25 width=25 />/ajaleelp</a></li>
-				<li><img src=""> +91 - 811835190</li>
+				<li><a href="mailto:ajaleelp@gmail.com" target="_blank"> ajaleelp@gmail.com</a></li>
+				<li>{ <a href="https://www.github.com/ajaleelp"> <img src="media/GitHub-32px.png" height=15 width=15 /></a> , <a href="https://www.linkedin.com/in/ajaleelp"> <img src="media/linkedin.png" height=15 width=15 /></a><!-- ,<a href="https://www.facebook.com/ajaleelp"> <img src="media/facebook.png" height=15 width=15 /></a>--> } /ajaleelp</li>
+				
+				<li><!--<img src="media/telephone_blue.png" height=15 width=15 />--> +91 - 8111835190</li>
 			</ul>
 		</div>
 		<div class="clear"></div>
@@ -37,11 +38,11 @@
 		<section>
 			<article>
 				<div class="sectionTitle">
-					<h1>Personal Profile</h1>
+					<h1><img src="media/person-8x.png" height=25 width=25> Profile</h1>
 				</div>
 				
 				<div class="sectionContent">
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+					<p>Post-Graduate (M.Tech) in Electrical Engineering from the Indian Institute of Technology, with 3 years of experience as Scientific Programmer specialized in developing algorithms for Control Systems and Signal Processing.</p>
 				</div>
 			</article>
 			<div class="clear"></div>
@@ -50,26 +51,15 @@
 		
 		<section>
 			<div class="sectionTitle">
-				<h1>Work Experience</h1>
+				<h1><img src="media/bag.svg" height=25 width=25> Experience</h1>
 			</div>
 			
 			<div class="sectionContent">
 				<article>
-					<h2>Job Title at Company</h2>
-					<p class="subDetails">April 2011 - Present</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
-				</article>
-				
-				<article>
-					<h2>Job Title at Company</h2>
-					<p class="subDetails">Janruary 2007 - March 2011</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
-				</article>
-				
-				<article>
-					<h2>Job Title at Company</h2>
-					<p class="subDetails">October 2004 - December 2006</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+					<h3>Research Associate @ Texas A&M University at Qatar</h3>
+					<p class="subDetails">July 2011 - Present (3 years)</p>
+					<p>Lead Scientific Programmer for multiple nation-funded research projects in Bio-medical
+Signal Processing, primarily responsible for developing various systems for applications including Cardiac diagnosis and Sleep staging.</p>
 				</article>
 			</div>
 			<div class="clear"></div>
@@ -78,19 +68,19 @@
 		
 		<section>
 			<div class="sectionTitle">
-				<h1>Key Skills</h1>
+				<h1><img src="media/options-settings.svg" height=25 width=25> Toolkit</h1>
 			</div>
 			
 			<div class="sectionContent">
 				<ul class="keySkills">
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
+					<li>MATLAB</li>
+					<li>LABVIEW</li>
+					<li>JAVA</li>
+					<li>C++</li>
+					<li>PYTHON</li>
+					<li>R</li>
+					<li>HTML/CSS</li>
+					<li>LINUX</li>
 				</ul>
 			</div>
 			<div class="clear"></div>
@@ -99,20 +89,20 @@
 		
 		<section>
 			<div class="sectionTitle">
-				<h1>Education</h1>
+				<h1> Education</h1>
 			</div>
 			
 			<div class="sectionContent">
 				<article>
-					<h2>College/University</h2>
-					<p class="subDetails">Qualification</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
+					<h2>Indian Insititute of Technology, Madras</h2>
+					<p class="subDetails">Master of Technology | Electrical Engineering | '09-'11</p>
+					<p>Specialization: Control Systems & Instrumentation</p>
 				</article>
 				
 				<article>
-					<h2>College/University</h2>
-					<p class="subDetails">Qualification</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
+					<h2>College of Engg.,Trivandrum / University of Kerala</h2>
+					<p class="subDetails">Bachelor of Technology | '05-'09</p>
+					<p>Specialization: Applied Electronics & Instrumentation</p>
 				</article>
 			</div>
 			<div class="clear"></div>
